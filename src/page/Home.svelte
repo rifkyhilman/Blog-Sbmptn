@@ -1,7 +1,7 @@
 <script>
-  import Navbar from "./components/navbar.svelte";
-  import Jumbotron from "./components/jumbotron.svelte";
-  import Cards from "./components/cards.svelte";
+  import Navbar from "../components/navbar.svelte";
+  import Jumbotron from "../components/jumbotron.svelte";
+  import Cards from "../components/cards.svelte";
 </script>
 
 <style>

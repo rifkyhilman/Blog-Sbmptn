@@ -6,9 +6,12 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="..." class="card-img-top" alt="..." />
+    <img
+      src="http://pngimg.com/uploads/dollar_sign/dollar_sign_PNG21539.png"
+      class="card-img-top"
+      alt="..." />
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title">Premium</h5>
       <p class="card-text">
         This is a wider card with supporting text below as a natural lead-in to
         additional content. This content is a little bit longer.
@@ -19,7 +22,10 @@
     </div>
   </div>
   <div class="card">
-    <img src="..." class="card-img-top" alt="..." />
+    <img
+      src="http://pngimg.com/uploads/dollar_sign/dollar_sign_PNG28.png"
+      class="card-img-top"
+      alt="..." />
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">
@@ -32,7 +38,10 @@
     </div>
   </div>
   <div class="card">
-    <img src="..." class="card-img-top" alt="..." />
+    <img
+      src="https://cdn1.iconfinder.com/data/icons/shopping-and-ecommerce-2/64/E-commerce_and_Shopping-80-512.png"
+      class="card-img-top"
+      alt="..." />
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">
