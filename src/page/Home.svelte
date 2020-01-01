@@ -1,6 +1,5 @@
 <script>
-  import Navbar from "../components/navbar.svelte";
-  import Jumbotron from "../components/jumbotron.svelte";
+  import Carousel from "../components/carousel.svelte";
   import Cards from "../components/cards.svelte";
 </script>
 
@@ -13,7 +12,8 @@
 </style>
 
 <div class="body">
-  <Navbar />
-  <Jumbotron />
-  <Cards />
+  <Carousel />
+  <div class="m-5">
+    <Cards />
+  </div>
 </div>

@@ -5,13 +5,13 @@
   crossorigin="anonymous" />
 
 <div class="card-deck">
-  <div class="card">
+  <div class="card d-flex justify-content-center align-items-center">
     <img
       src="http://pngimg.com/uploads/dollar_sign/dollar_sign_PNG21539.png"
-      class="card-img-top"
+      class="card-img-top w-50 h-60"
       alt="..." />
     <div class="card-body">
-      <h5 class="card-title">Premium</h5>
+      <h5 class="card-title d-flex justify-content-center">Premium</h5>
       <p class="card-text">
         This is a wider card with supporting text below as a natural lead-in to
         additional content. This content is a little bit longer.
@@ -21,13 +21,13 @@
       <small class="text-muted">Last updated 3 mins ago</small>
     </div>
   </div>
-  <div class="card">
+  <div class="card d-flex justify-content-center align-items-center">
     <img
       src="http://pngimg.com/uploads/dollar_sign/dollar_sign_PNG28.png"
-      class="card-img-top"
+      class="card-img-top w-50 h-60"
       alt="..." />
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title d-flex justify-content-center">High</h5>
       <p class="card-text">
         This card has supporting text below as a natural lead-in to additional
         content.
@@ -37,13 +37,13 @@
       <small class="text-muted">Last updated 3 mins ago</small>
     </div>
   </div>
-  <div class="card">
+  <div class="card d-flex justify-content-center align-items-center">
     <img
       src="https://cdn1.iconfinder.com/data/icons/shopping-and-ecommerce-2/64/E-commerce_and_Shopping-80-512.png"
-      class="card-img-top"
+      class="card-img-top w-50 h-60"
       alt="..." />
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title d-flex justify-content-center">VIP</h5>
       <p class="card-text">
         This is a wider card with supporting text below as a natural lead-in to
         additional content. This card has even longer content than the first to
