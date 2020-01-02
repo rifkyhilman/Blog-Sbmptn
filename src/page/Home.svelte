@@ -9,10 +9,16 @@
       max-width: none;
     }
   }
+
+  .crousel {
+    height: 10%;
+  }
 </style>
 
 <div class="body">
-  <Carousel />
+  <div class="crousel">
+    <Carousel />
+  </div>
   <div class="m-5">
     <Cards />
   </div>

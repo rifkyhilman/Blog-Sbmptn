@@ -2,6 +2,6 @@
   import Cards from "../components/cards2.svelte";
 </script>
 
-<div>
+<div class="mt-100">
   <Cards />
 </div>
