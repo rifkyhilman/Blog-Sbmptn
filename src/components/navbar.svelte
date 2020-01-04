@@ -44,78 +44,41 @@
             SMP
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <div class="col-3 row w-50">
-              <div
-                class="nav flex-column nav-pills"
-                id="v-pills-tab"
-                role="tablist"
-                aria-orientation="vertical">
-                <a
-                  class="nav-link active dropdown-item"
-                  id="v-pills-home-tab"
-                  data-toggle="pill"
-                  href="#v-pills-home"
-                  role="tab"
-                  aria-controls="v-pills-home"
-                  aria-selected="true">
-                  Home
-                </a>
-                <a
-                  class="nav-link dropdown-item"
-                  id="v-pills-profile-tab"
-                  data-toggle="pill"
-                  href="#v-pills-profile"
-                  role="tab"
-                  aria-controls="v-pills-profile"
-                  aria-selected="false">
-                  Profile
-                </a>
-                <a
-                  class="nav-link dropdown-item"
-                  id="v-pills-messages-tab"
-                  data-toggle="pill"
-                  href="#v-pills-messages"
-                  role="tab"
-                  aria-controls="v-pills-messages"
-                  aria-selected="false">
-                  Messages
-                </a>
-                <a
-                  class="nav-link dropdown-item"
-                  id="v-pills-settings-tab"
-                  data-toggle="pill"
-                  href="#v-pills-settings"
-                  role="tab"
-                  aria-controls="v-pills-settings"
-                  aria-selected="false">
-                  Settings
-                </a>
-              </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapseExample"
+                role="button">
+                kelas 7
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+              <div class="card card-body">Anim pariatur</div>
             </div>
-            <div class="col-3 row">
-              <div class="tab-content" id="v-pills-tabContent">
-                <div
-                  class="tab-pane fade show active"
-                  id="kls-7"
-                  role="tabpanel"
-                  aria-labelledby="v-pills-home-tab">
-                  matematika
-                </div>
-                <div
-                  class="tab-pane fade"
-                  id="kls-8"
-                  role="tabpanel"
-                  aria-labelledby="v-pills-profile-tab">
-                  matematika
-                </div>
-                <div
-                  class="tab-pane fade"
-                  id="kls-9"
-                  role="tabpanel"
-                  aria-labelledby="v-pills-messages-tab">
-                  matematika
-                </div>
-              </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapses"
+                role="button">
+                kelas 8
+              </a>
+            </p>
+            <div class="collapse" id="collapses">
+              <div class="card card-body">Anim pariatur</div>
+            </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapse3"
+                role="button">
+                kelas 9
+              </a>
+            </p>
+            <div class="collapse" id="collapse3">
+              <div class="card card-body">Anim pariatur</div>
             </div>
           </div>
         </li>
@@ -131,9 +94,42 @@
             SMA
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapseExample"
+                role="button">
+                kelas 10
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+              <div class="card card-body">Anim pariatur</div>
+            </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapses"
+                role="button">
+                kelas 11
+              </a>
+            </p>
+            <div class="collapse" id="collapses">
+              <div class="card card-body">Anim pariatur</div>
+            </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapse3"
+                role="button">
+                kelas 12
+              </a>
+            </p>
+            <div class="collapse" id="collapse3">
+              <div class="card card-body">Anim pariatur</div>
+            </div>
           </div>
         </li>
         <li class="nav-item dropdown m-3">
@@ -148,9 +144,32 @@
             UTBK
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapseExample"
+                role="button">
+                Soshum UTBK
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+              <a href="/mtksoshum" class="card card-body" use:link>
+                MTK soshum
+              </a>
+            </div>
+            <p>
+              <a
+                class="btn btn-primary dropdown-item"
+                data-toggle="collapse"
+                href="#collapses"
+                role="button">
+                Saintek UTBK
+              </a>
+            </p>
+            <div class="collapse" id="collapses">
+              <div class="card card-body">Anim pariatur</div>
+            </div>
           </div>
         </li>
         <li class="nav-item m-3">

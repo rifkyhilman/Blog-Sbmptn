@@ -4,6 +4,7 @@
   import Footer from "./components/footer.svelte";
   import Home from "./page/Home.svelte";
   import Blog from "./page/Blog.svelte";
+  import Mtksoshum from "./page/Mtksoshum.svelte";
   export let url = "";
 </script>
 
@@ -12,6 +13,7 @@
   <div class="body">
     <Route path="/blog" component={Blog} />
     <Route path="/" component={Home} />
+    <Route path="/mtksoshum" component={Mtksoshum} />
   </div>
   <Footer />
 </Router>
