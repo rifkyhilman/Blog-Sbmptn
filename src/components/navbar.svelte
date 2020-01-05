@@ -168,7 +168,9 @@
               </a>
             </p>
             <div class="collapse" id="collapses">
-              <div class="card card-body">Anim pariatur</div>
+              <a href="/mtksaintek" class="card card-body" use:link>
+                MTK-IPA saintek
+              </a>
             </div>
           </div>
         </li>
