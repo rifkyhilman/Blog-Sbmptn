@@ -1,5 +1,5 @@
 <script>
-  import Carousel from "../components/carousel.svelte";
+  import Jumbotron from "../components/jumbotron.svelte";
   import Cards from "../components/cards.svelte";
 </script>
 
@@ -9,15 +9,11 @@
       max-width: none;
     }
   }
-
-  .crousel {
-    height: 10%;
-  }
 </style>
 
 <div class="body">
-  <div class="crousel">
-    <Carousel />
+  <div>
+    <Jumbotron />
   </div>
   <div class="m-5">
     <Cards />

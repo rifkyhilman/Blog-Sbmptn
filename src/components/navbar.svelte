@@ -14,7 +14,7 @@
 </style>
 
 <div>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <a class="navbar-brand" href="/" use:link>
       <h1 class="brand">Ribook</h1>
     </a>
