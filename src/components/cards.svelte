@@ -16,12 +16,13 @@
       <div class="card-body">
         <h5 class="card-title d-flex justify-content-center">Mudah</h5>
         <p class="card-text">
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This content is a little bit longer.
+          Ribook menyediakan materi-materi yang mudah di cermati oleh segala
+          kalangan, baik itu remaja/orang dewasa. jadi tidak perlu takut unutuk
+          belajar atau mencari materi di Ribook !
         </p>
       </div>
       <div class="card-footer">
-        <small class="text-muted">Last updated 3 mins ago</small>
+        <small class="text-muted">Update</small>
       </div>
     </div>
     <div class="card d-flex justify-content-center align-items-center">
@@ -30,10 +31,11 @@
         class="card-img-top w-50 h-60"
         alt="..." />
       <div class="card-body">
-        <h5 class="card-title d-flex justify-content-center">High</h5>
+        <h5 class="card-title d-flex justify-content-center">Uptade</h5>
         <p class="card-text">
-          This card has supporting text below as a natural lead-in to additional
-          content.
+          Materi yang di sediakan oleh Ribook ialah materi yang selalu uptade,
+          jadi anda bisa menikmati atau mempelajari ilmu terbaru yang di
+          sediakan oleh Ribook.
         </p>
       </div>
       <div class="card-footer">
@@ -46,11 +48,10 @@
         class="card-img-top w-50 h-60"
         alt="..." />
       <div class="card-body">
-        <h5 class="card-title d-flex justify-content-center">VIP</h5>
+        <h5 class="card-title d-flex justify-content-center">Gratis</h5>
         <p class="card-text">
-          This is a wider card with supporting text below as a natural lead-in
-          to additional content. This card has even longer content than the
-          first to show that equal height action.
+          Anda tidak perlu khawatir, karena di Ribook anda bisa menikmati materi
+          secara GRATISS!!. so, jadi tunggu apa lagi,Ayo gali ilmu di Ribook !!
         </p>
       </div>
       <div class="card-footer">
