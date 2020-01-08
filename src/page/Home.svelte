@@ -9,13 +9,17 @@
       max-width: none;
     }
   }
+
+  .bodycar {
+    margin-bottom: 10%;
+  }
 </style>
 
 <div class="body">
   <div>
     <Jumbotron />
   </div>
-  <div class="m-5">
+  <div class="bodycar">
     <Cards />
   </div>
 </div>

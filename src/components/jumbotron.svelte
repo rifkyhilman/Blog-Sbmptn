@@ -12,8 +12,7 @@
     Halo,Selamat Datang di Ribook !
   </h1>
   <p class="d-flex justify-content-center text-white m-5">
-    This is a simple hero unit, a simple jumbotron-style component for calling
-    extra attention to featured content or information.
+    Tempatnya belajar bagi segala kalangan !
   </p>
   <p class="d-flex justify-content-center text-white m-5">
     It uses utility classes for typography and spacing to space content out
