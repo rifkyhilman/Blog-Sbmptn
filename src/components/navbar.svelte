@@ -157,6 +157,9 @@
               <a href="/mtksoshum" class="card card-body" use:link>
                 MTK soshum
               </a>
+              <a href="/ekonomi" class="card card-body" use:link>
+                Ekonomi soshum
+              </a>
             </div>
             <p>
               <a
