@@ -7,6 +7,8 @@
   import Mtksoshum from "./page/Mtksoshum.svelte";
   import Mtksaintek from "./page/Mtksaintek.svelte";
   import Ekonomi from "./page/Ekonomi.svelte";
+  import Fisika from "./page/Fisika.svelte";
+
 
   export let url = "";
 </script>
@@ -19,6 +21,7 @@
     <Route path="/mtksoshum" component={Mtksoshum} />
     <Route path="/mtksaintek" component={Mtksaintek} />
     <Route path="/ekonomi" component={Ekonomi} />
+    <Route path="/fisika" component={Fisika} />
   </div>
   <Footer />
 </Router>

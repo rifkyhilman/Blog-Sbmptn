@@ -22,7 +22,7 @@
   </nav>
 </div>
 <div class="d-flex justify-content-center m-5">
-  <h1>Materi ekonomi Soshum UTBK</h1>
+  <h1>Materi Fisika Saintek UTBK</h1>
 </div>
 <div class="container">
   <div class="m-5">

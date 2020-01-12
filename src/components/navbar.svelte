@@ -174,6 +174,9 @@
               <a href="/mtksaintek" class="card card-body" use:link>
                 MTK-IPA saintek
               </a>
+              <a href="/fisika" class="card card-body" use:link>
+                Fisika saintek
+              </a>
             </div>
           </div>
         </li>
