@@ -30,10 +30,10 @@
             <a class="nav-link" href="/blog" use:link>Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Sbmptn</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Ujian Nasional</a>
           </li>
         </ul>
       </div>
@@ -41,13 +41,13 @@
         <h2>Contact</h2>
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Active</a>
+            <a class="nav-link active" href="#">Whatshapp</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Instagram</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Gmail</a>
           </li>
         </ul>
       </div>

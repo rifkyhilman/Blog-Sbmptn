@@ -15,7 +15,7 @@
     Tempatnya belajar bagi segala kalangan !
   </p>
   <p class="d-flex justify-content-center text-white m-5">
-    It uses utility classes for typography and spacing to space content out
-    within the larger container.
+    kami menyediakan materi sekolah yang bisa anda pelajari secara gratis,
+    mulai dari Smp - Sma dan Sbmptn. 
   </p>
 </div>

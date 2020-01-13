@@ -28,10 +28,10 @@
       </div>
       <div class="col-md-8">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Cara mudah membaca Romawi</h5>
           <p class="card-text">
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
+            Menulis angka romawi mulai dari 1,2,3,4 hingga angka besar seperti
+            2018, 2019, hingga 2020 bukanlah hal yang sulit sebenarnya.
           </p>
           <p class="card-text">
             <small class="text-muted">Last updated 3 mins ago</small>
